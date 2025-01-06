@@ -6,3 +6,10 @@ th, td {
   border: 1px solid black;
   text-align: center;
 }
+
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
